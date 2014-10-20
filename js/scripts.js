@@ -4,6 +4,8 @@ $(document).foundation();
 
 // On page load, do this
 $(document).ready(function(){
+
+$(".box").corner("bevel");
   
   // Your Scripts
 
